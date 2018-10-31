@@ -1,0 +1,3 @@
+* still struggling with the concepts of machine learning.
+* started learning python from edx.org.
+* i have solved some exercises of khan academy on statistics and earned some mystery points. 
