@@ -1,0 +1,3 @@
+today i practised python fro  edx learning functions and modules.
+have done statistics and probability from khan academy.
+also done machine learning course by stanford.
